@@ -1,7 +1,5 @@
 # Hey there, I'm Mrigank 👋
 
-<img src="https://github.com/mrigankdoshy/mrigankdoshy/blob/master/Mrigank%20Doshy.png" alt="banner that says Mrigank Doshy - entrepreneur, developer and explorer alongside a illustration of Mrigank">
-
 I am a multi-disciplinary developer, designer and entrepreneur currently living in University Park, Pennsylvania. As of today I am co-founding and developing Mule, an intelligent delivery system application that enables peer to peer delivery in exchange for incentivized benefits. I have co-founded and am the current President of Blockchain@PSU, a student run organization that trains students and instill upon them the skills essential to FinTech. 
 
 I am a rising senior at The Pennsylvania State University, pursuing a double major in Computer Science and Mathematics. Since 2018, I have been exploring the different applications of blockchain and engaging myself in a FinTech environment. I also love physics and I aspire to have a future that keeps me around it.
