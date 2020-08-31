@@ -8,5 +8,5 @@ Fun fact: I play seven musical instruments!
 
 ## Find me around 🌎:
 - Following memes on <a href="https://www.instagram.com/mrigankdoshy/">Instagram</a> :camera:
-- Thinking aloud on <a href="https://twitter.com/Mrigank2487"> Twitter</a> :thought_balloon:
+- Thinking aloud on <a href="https://twitter.com/mrigankdoshy"> Twitter</a> :thought_balloon:
 - Building connections on <a href="https://www.linkedin.com/in/mrigankdoshy/">LinkedIn</a> 💼
