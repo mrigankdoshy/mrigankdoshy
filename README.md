@@ -6,6 +6,7 @@ When not working with technology, I can be found geeking out on astrophysics, pl
 
 Fun fact: I play seven musical instruments!
 
+Many of my projects are private. If you're interested in viewing my work, feel free to reach out!
 ## Find me around 🌎:
 - Following memes on <a href="https://www.instagram.com/mrigankdoshy/">Instagram</a> :camera:
 - Thinking aloud on <a href="https://twitter.com/mrigankdoshy"> Twitter</a> :thought_balloon:
