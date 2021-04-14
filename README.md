@@ -21,6 +21,9 @@ Many of my projects are private repositories. If you're interested in viewing my
 <a href="https://www.linkedin.com/in/mrigankdoshy/">
   <img align="left" alt="Mrigank Doshy | LinkedIn" width="22px" src="https://github.com/mrigankdoshy/mrigankdoshy/blob/master/assets/icons/linkedin.svg" />
 </a>
-<a href="https://open.spotify.com/user/e90fe4zsndbm6xoe2t7t8kogf?si=WaLKpwvWTle0btle2qPb6g">
-  <img align="left" alt="Abhishek's Spotify" width="22px" src="https://github.com/mrigankdoshy/mrigankdoshy/blob/master/assets/icons/spotify.svg" />
+<a href="https://open.spotify.com/user/0dmta114n09jih8ye0ql93v08">
+  <img align="left" alt="Mrigank Doshy | Spotify" width="22px" src="https://github.com/mrigankdoshy/mrigankdoshy/blob/master/assets/icons/spotify.svg" />
+</a>
+<a href="https://www.youtube.com/channel/UCFdJXx82HEolB4Nv2cW8C_g">
+  <img align="left" alt="Mrigank Doshy | YouTube" width="22px" src="https://github.com/mrigankdoshy/mrigankdoshy/blob/master/assets/icons/youtube.svg" />
 </a>
