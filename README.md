@@ -11,3 +11,16 @@ Many of my projects are private repositories. If you're interested in viewing my
 - Following memes on <a href="https://www.instagram.com/mrigankdoshy/">Instagram</a> :camera:
 - Thinking aloud on <a href="https://twitter.com/mrigankdoshy"> Twitter</a> :thought_balloon:
 - Building connections on <a href="https://www.linkedin.com/in/mrigankdoshy/">LinkedIn</a> 💼
+
+<a href="https://www.instagram.com/mrigankdoshy/">
+  <img align="left" alt="Mrigank Doshy | Instagram" width="22px" src="https://github.com/mrigankdoshy/mrigankdoshy/blob/master/assets/icons/instagram.svg" />
+</a>
+<a href="https://twitter.com/mrigankdoshy">
+  <img align="left" alt="Mrigank Doshy | Twitter" width="22px" src="https://github.com/mrigankdoshy/mrigankdoshy/blob/master/assets/icons/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/mrigankdoshy/">
+  <img align="left" alt="Mrigank Doshy | LinkedIn" width="22px" src="https://github.com/mrigankdoshy/mrigankdoshy/blob/master/assets/icons/linkedin.svg" />
+</a>
+<a href="https://open.spotify.com/user/e90fe4zsndbm6xoe2t7t8kogf?si=WaLKpwvWTle0btle2qPb6g">
+  <img align="left" alt="Abhishek's Spotify" width="22px" src="https://github.com/mrigankdoshy/mrigankdoshy/blob/master/assets/icons/spotify.svg" />
+</a>
