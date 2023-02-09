@@ -8,7 +8,7 @@ When not working with technology, I geek out on physics, game on the PS4, and bi
 
 Fun fact: I play seven musical instruments!
 
-Many of my projects are private repositories. If you're interested in viewing my work, please feel free to reach out!
+Most of my projects are private repositories. If you're interested in viewing my work, please feel free to reach out!
 
 <a href="https://www.instagram.com/mrigankdoshy/">
   <img align="left" alt="Mrigank Doshy | Instagram" width="25px" src="https://github.com/mrigankdoshy/mrigankdoshy/blob/master/assets/icons/instagram.svg" />
