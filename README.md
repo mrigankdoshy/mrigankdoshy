@@ -1,8 +1,14 @@
 # Hey there, I'm Mrigank 👋
 
-I'm currently a Software Engineer II at <a href="https://www.kcftech.com">KCF Technologies</a> that helps build enterprise software to deliver sustainable and comprehensive machine health solutions. I have a knack for front-end design and love building digital experiences! In the past, I've co-founded and developed <a href="https://www.themuleapp.com">Mule</a>, an intelligent system that enables peer to peer delivery in college towns while helping students have complete autonomy over their schedules. 
+I'm a software engineer, with a passion for developing (and occasionally designing) digital experiences. Currently, I'm focused on building sustainable and comprehensive machine health centered products at <a href="https://www.kcftech.com">KCF Technologies</a>. These days, I primarily work with [React](https://react.dev) and [React Native](https://reactnative.dev), crafting performant and intuitive web and mobile applications.
 
-When not working with technology, I geek out on physics, game on the PS4, and binge watch movies/shows. I enjoy sipping on bubble tea while playing Jenga. I'm also proud to support <a href="https://www.thon.org">THON</a>, the world's largest student run philanthropy. 🎗️
+In the past, I embarked on an entrepreneurial journey. One highlight I’m particularly proud of is co-founding and developing [Mule](https://www.themuleapp.com), an iOS and Android app using [Flutter](https://flutter.dev). The app empowered peer-to-peer delivery in college towns, while giving students complete autonomy over their schedules (serving 100+ users).
+
+Beyond technology, you’ll often find me playing musical instruments, exploring the wonders of physics, gaming on the PlayStation, or binge-watching movies and shows :)
+
+#### Technologies I've worked with 
+
+<img src="https://skillicons.dev/icons?i=anaconda,androidstudio,apollo,apple,arduino,atom,aws,azure,babel,bash,bootstrap,bun,c,cs,cpp,codepen,css,cypress,d3,dart,docker,dotnet,eclipse,express,figma,firebase,flutter,gatsby,gcp,git,github,githubactions,gradle,graphql,gulp,heroku,html,idea,ai,java,js,jest,latex,linux,md,materialui,matlab,mongodb,mysql,netlify,nextjs,nodejs,npm,pnpm,postgres,postman,prisma,py,react,regex,remix,replit,sass,stackoverflow,styledcomponents,sublime,supabase,sklearn,sentry,solidity,svg,tailwind,tensorflow,ts,ubuntu,vercel,vim,visualstudio,vite,vitest,vscode,webpack,windows,xd,yarn" />
 
 **Most of my projects are private repositories. If you're interested in viewing my work, please feel free to reach out!**
 
