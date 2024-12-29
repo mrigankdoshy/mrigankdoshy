@@ -6,11 +6,15 @@ In the past, I embarked on an entrepreneurial journey. One highlight I’m parti
 
 Beyond technology, you’ll often find me playing musical instruments, exploring the wonders of physics, gaming on the PlayStation, or binge-watching movies and shows :)
 
-#### Technologies I've worked with 
+#### Technologies I've recently worked with
 
-<img src="https://skillicons.dev/icons?i=anaconda,androidstudio,apollo,apple,arduino,atom,aws,azure,babel,bash,bootstrap,bun,c,cs,cpp,codepen,css,cypress,d3,dart,docker,dotnet,eclipse,express,figma,firebase,flutter,gatsby,gcp,git,github,githubactions,gradle,graphql,gulp,heroku,html,idea,ai,java,js,jest,latex,linux,md,materialui,matlab,mongodb,mysql,netlify,nextjs,nodejs,npm,pnpm,postgres,postman,prisma,py,react,regex,remix,replit,sass,stackoverflow,styledcomponents,sublime,supabase,sklearn,sentry,solidity,svg,tailwind,tensorflow,ts,ubuntu,vercel,vim,visualstudio,vite,vitest,vscode,webpack,windows,xd,yarn" />
+<img src="https://skillicons.dev/icons?i=androidstudio,apple,aws,azure,babel,bash,cs,css,d3,dart,dotnet,figma,firebase,flutter,gcp,git,github,githubactions,gradle,graphql,heroku,html,java,js,jest,md,materialui,netlify,nextjs,nodejs,npm,pnpm,postgres,postman,react,regex,remix,sass,stackoverflow,styledcomponents,sublime,supabase,sentry,svg,tailwind,ts,vercel,vite,vitest,vscode" />
 
-**Most of my projects are private repositories. If you're interested in viewing my work, please feel free to reach out!**
+#### Other technologies I've worked with in the past
+
+<img src="https://skillicons.dev/icons?i=anaconda,apollo,arduino,atom,bootstrap,c,cpp,codepen,cypress,docker,eclipse,express,gatsby,gulp,heroku,idea,ai,latex,linux,matlab,mongodb,mysql,prisma,py,replit,sklearn,solidity,tensorflow,ubuntu,vim,visualstudio,webpack,windows,yarn,xd" />
+
+⚠️ Most of my projects are private repositories. If you're interested in viewing my work, please feel free to reach out!**
 
 <a href="https://www.instagram.com/mrigankdoshy/">
   <img align="left" alt="Mrigank Doshy | Instagram" width="25px" src="https://github.com/mrigankdoshy/mrigankdoshy/blob/master/assets/icons/instagram.svg" />
