@@ -6,7 +6,7 @@ In the past, I embarked on an entrepreneurial journey. One highlight I’m parti
 
 Beyond technology, you’ll often find me playing musical instruments, exploring the wonders of physics, gaming on the PlayStation, or binge-watching movies and shows :)
 
-⚠️ Most of my projects are private repositories. If you're interested in viewing my work, please feel free to reach out!
+⚠️ Most of my projects are private repositories. If you're interested in viewing my work, please feel free to reach out
 
 <a href="https://www.instagram.com/mrigankdoshy/">
   <img align="left" alt="Mrigank Doshy | Instagram" width="25px" src="https://github.com/mrigankdoshy/mrigankdoshy/blob/master/assets/icons/instagram.svg" />
